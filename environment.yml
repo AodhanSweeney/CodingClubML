@@ -1,0 +1,10 @@
+name: CodingClubML
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - scipy
+  - seaborn
+  - sklearn
